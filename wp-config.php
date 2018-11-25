@@ -121,3 +121,4 @@ require_once(ABSPATH . 'wp-settings.php');
 
 # Disables all core updates. Added by SiteGround Autoupdate:
 define( 'WP_AUTO_UPDATE_CORE', false );
+// testing
